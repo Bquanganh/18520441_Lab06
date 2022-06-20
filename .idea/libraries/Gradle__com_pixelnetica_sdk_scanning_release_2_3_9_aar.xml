@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: com.pixelnetica.sdk:scanning-release:2.3.9@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0f2a26e0847f4d8dcbeafea964285601/jetified-scanning-release-2.3.9/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0f2a26e0847f4d8dcbeafea964285601/jetified-scanning-release-2.3.9/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0f2a26e0847f4d8dcbeafea964285601/jetified-scanning-release-2.3.9/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0f2a26e0847f4d8dcbeafea964285601/jetified-scanning-release-2.3.9/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.pixelnetica.sdk/scanning-release/2.3.9/50e453e098c7007e920908e93229c37d2bbf4cfe/scanning-release-2.3.9-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>
